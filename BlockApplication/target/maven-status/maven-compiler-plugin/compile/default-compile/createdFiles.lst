@@ -1,0 +1,5 @@
+com\block\CryptoUtil.class
+com\block\BlockService.class
+com\block\Block.class
+com\block\DBWrite.class
+com\block\BlockServlet.class
